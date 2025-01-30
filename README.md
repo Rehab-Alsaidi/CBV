@@ -13,12 +13,12 @@ The YOLOv9-c model is trained on a custom dataset specifically designed for brid
 - **Programmable Gradient Information (PGI)** for enhanced gradient flow.
 - **Generalized Efficient Layer Aggregation Network (GELAN)** for improved feature fusion.
 
-![Model Methodology](image.png)  
 
 ## PGI Architecture
 The PGI architecture enhances model performance by introducing multi-level auxiliary information and auxiliary reversible branches. The detailed architecture is illustrated below:
 
-![PGI Architecture]([image.png](https://github.com/Rehab-Alsaidi/CBV/blob/main/PGI.png))
+![PGI Architecture](https://github.com/Rehab-Alsaidi/CBV/blob/main/PGI.png)
+
 
 ## Results
 The model achieved high accuracy across key evaluation metrics:
