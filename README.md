@@ -18,7 +18,7 @@ The YOLOv9-c model is trained on a custom dataset specifically designed for brid
 ## PGI Architecture
 The PGI architecture enhances model performance by introducing multi-level auxiliary information and auxiliary reversible branches. The detailed architecture is illustrated below:
 
-![PGI Architecture](image.png)
+![PGI Architecture]([image.png](https://github.com/Rehab-Alsaidi/CBV/blob/main/PGI.png))
 
 ## Results
 The model achieved high accuracy across key evaluation metrics:
